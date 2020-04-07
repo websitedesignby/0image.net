@@ -15,7 +15,8 @@ if(  empty( $_SESSION['requests'] ) ){
 echo $_SESSION['requests'] . " requests" . "<br />";
 
 ?>
-<a href="index.php">index.php</a>
-<p><a href="https://github.com/websitedesignby/0image.net" target="_blank">github.com/websitedesignby/0image.net</a></p>
+<p><a href="session_plus.php"><strong>refresh</strong></a></p>
+<p><a href="index.php"><strong>Go to index.php</strong></a></p>
+<p>View the code: <a href="https://github.com/websitedesignby/0image.net" target="_blank">github.com/websitedesignby/0image.net</a></p>
 
 
