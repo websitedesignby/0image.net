@@ -10,5 +10,6 @@ if(  empty( $_SESSION['requests'] ) ){
 echo $_SESSION['requests'] . " requests" . "<br />";
 
 ?>
-<a href="session_plus.php">session_plus.php</a>
+<p><a href="session_plus.php">session_plus.php</a></p>
+<p><a href="https://github.com/websitedesignby/0image.net" target="_blank">github.com/websitedesignby/0image.net</a></p>
 
